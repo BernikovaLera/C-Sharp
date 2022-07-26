@@ -1,0 +1,30 @@
+C:\Users\Valeriya\source\repos\WpfApp4\WpfApp4\bin\Debug\WpfApp4.exe.config
+C:\Users\Valeriya\source\repos\WpfApp4\WpfApp4\bin\Debug\WpfApp4.exe
+C:\Users\Valeriya\source\repos\WpfApp4\WpfApp4\bin\Debug\WpfApp4.pdb
+C:\Users\Valeriya\source\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4.csproj.AssemblyReference.cache
+C:\Users\Valeriya\source\repos\WpfApp4\WpfApp4\obj\Debug\MainWindow.g.cs
+C:\Users\Valeriya\source\repos\WpfApp4\WpfApp4\obj\Debug\App.g.cs
+C:\Users\Valeriya\source\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4_MarkupCompile.cache
+C:\Users\Valeriya\source\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4_MarkupCompile.lref
+C:\Users\Valeriya\source\repos\WpfApp4\WpfApp4\obj\Debug\MainWindow.baml
+C:\Users\Valeriya\source\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4.g.resources
+C:\Users\Valeriya\source\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4.Properties.Resources.resources
+C:\Users\Valeriya\source\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4.csproj.GenerateResource.cache
+C:\Users\Valeriya\source\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4.csproj.CoreCompileInputs.cache
+C:\Users\Valeriya\source\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4.exe
+C:\Users\Valeriya\source\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4.pdb
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\repos\WpfApp4\WpfApp4\bin\Debug\WpfApp4.exe.config
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\repos\WpfApp4\WpfApp4\bin\Debug\WpfApp4.exe
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\repos\WpfApp4\WpfApp4\bin\Debug\WpfApp4.pdb
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4.csproj.AssemblyReference.cache
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\repos\WpfApp4\WpfApp4\obj\Debug\MainWindow.g.cs
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\repos\WpfApp4\WpfApp4\obj\Debug\App.g.cs
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4_MarkupCompile.cache
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4_MarkupCompile.lref
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\repos\WpfApp4\WpfApp4\obj\Debug\MainWindow.baml
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4.g.resources
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4.Properties.Resources.resources
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4.csproj.GenerateResource.cache
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4.csproj.CoreCompileInputs.cache
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4.exe
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\repos\WpfApp4\WpfApp4\obj\Debug\WpfApp4.pdb
