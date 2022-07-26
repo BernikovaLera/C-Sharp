@@ -1,0 +1,9 @@
+﻿<Application x:Class="Bilet_1_Zadanie1_group118_Bernikova.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Bilet_1_Zadanie1_group118_Bernikova"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

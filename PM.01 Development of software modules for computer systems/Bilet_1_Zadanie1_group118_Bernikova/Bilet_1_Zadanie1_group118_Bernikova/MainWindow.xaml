@@ -1,0 +1,30 @@
+﻿<Window x:Class="Bilet_1_Zadanie1_group118_Bernikova.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Bilet_1_Zadanie1_group118_Bernikova"
+        mc:Ignorable="d"
+        Title="БерниковаВС 118 Билет1" Height="450" Width="800" Background="Azure">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <TextBox x:Name="window_result" IsReadOnly="True" Grid.RowSpan="3" Margin="240,42,223.333,138.667" BorderThickness="2" BorderBrush="Black" Grid.ColumnSpan="3"/>
+        <TextBlock x:Name="name_text" Text="Вывод студентов с оценками за ПР" Grid.ColumnSpan="3" FontSize="20" TextAlignment="Center" VerticalAlignment="Bottom" Margin="240,0,223.333,103.667"/>
+        <Button x:Name="button_result" Content="Сгенерировать результаты" Grid.Row="2" Margin="240,35.333,223.333,53.667" ToolTip="Выводит полученные данные на экран" Click="Result_Click" FontSize="20" Grid.ColumnSpan="3"/>
+        <Menu Height="50" VerticalAlignment="Top" Background="AliceBlue" BorderBrush="Black" Margin="0,0,164.667,0">
+            <MenuItem Header="Файл" HorizontalAlignment="Left" FontSize="20"  Height="50" Width="101" RenderTransformOrigin="0.73,0.892">
+                <MenuItem Header="Сохранить как..." Click="Save_click" />
+                <Separator />
+            </MenuItem>
+        </Menu>
+    </Grid>
+</Window>

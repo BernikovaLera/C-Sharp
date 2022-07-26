@@ -1,0 +1,7 @@
+﻿  asm.cpp
+C:\Users\Valeriya\source\repos\Dll1\Dll1\asm.cpp(9,2): warning C4273: Count: несовместимое связывание dll
+C:\Users\Valeriya\source\repos\Dll1\Dll1\asm.h(8,26): message : см. предыдущее определение "Count"
+C:\Users\Valeriya\source\repos\Dll1\Dll1\asm.cpp(31,2): warning C4273: Knowledge: несовместимое связывание dll
+C:\Users\Valeriya\source\repos\Dll1\Dll1\asm.h(7,29): message : см. предыдущее определение "Knowledge"
+     Создается библиотека C:\Users\Valeriya\source\repos\Dll1\Debug\Dll1.lib и объект C:\Users\Valeriya\source\repos\Dll1\Debug\Dll1.exp
+  Dll1.vcxproj -> C:\Users\Valeriya\source\repos\Dll1\Debug\Dll1.dll
