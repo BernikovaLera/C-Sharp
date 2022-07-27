@@ -1,0 +1,9 @@
+c:\users\valeriya\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\valeriya\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\valeriya\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Valeriya\Documents\Visual Studio 2013\Projects\ConsoleApplication1 14.09\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Valeriya\Documents\Visual Studio 2013\Projects\ConsoleApplication1 14.09\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Valeriya\Documents\Visual Studio 2013\Projects\ConsoleApplication1 14.09\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Valeriya\Documents\Visual Studio 2013\Projects\ConsoleApplication1 14.09\ConsoleApplication1\obj\Debug\Задача 1 отличие эл.csprojResolveAssemblyReference.cache
+C:\Users\Valeriya\Documents\Visual Studio 2013\Projects\ConsoleApplication1 14.09\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Valeriya\Documents\Visual Studio 2013\Projects\ConsoleApplication1 14.09\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

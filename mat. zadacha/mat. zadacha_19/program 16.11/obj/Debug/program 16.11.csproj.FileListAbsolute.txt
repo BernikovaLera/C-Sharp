@@ -1,0 +1,6 @@
+c:\users\valeriya\documents\visual studio 2013\Projects\program 16.11\program 16.11\bin\Debug\program 16.11.exe.config
+c:\users\valeriya\documents\visual studio 2013\Projects\program 16.11\program 16.11\bin\Debug\program 16.11.exe
+c:\users\valeriya\documents\visual studio 2013\Projects\program 16.11\program 16.11\bin\Debug\program 16.11.pdb
+c:\users\valeriya\documents\visual studio 2013\Projects\program 16.11\program 16.11\obj\Debug\program 16.11.csprojResolveAssemblyReference.cache
+c:\users\valeriya\documents\visual studio 2013\Projects\program 16.11\program 16.11\obj\Debug\program 16.11.exe
+c:\users\valeriya\documents\visual studio 2013\Projects\program 16.11\program 16.11\obj\Debug\program 16.11.pdb

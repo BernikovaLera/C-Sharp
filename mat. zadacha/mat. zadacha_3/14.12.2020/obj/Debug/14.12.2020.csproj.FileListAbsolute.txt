@@ -1,0 +1,6 @@
+c:\users\valeriya\documents\visual studio 2013\Projects\14.12.2020\14.12.2020\bin\Debug\14.12.2020.exe.config
+c:\users\valeriya\documents\visual studio 2013\Projects\14.12.2020\14.12.2020\bin\Debug\14.12.2020.exe
+c:\users\valeriya\documents\visual studio 2013\Projects\14.12.2020\14.12.2020\bin\Debug\14.12.2020.pdb
+c:\users\valeriya\documents\visual studio 2013\Projects\14.12.2020\14.12.2020\obj\Debug\14.12.2020.csprojResolveAssemblyReference.cache
+c:\users\valeriya\documents\visual studio 2013\Projects\14.12.2020\14.12.2020\obj\Debug\14.12.2020.exe
+c:\users\valeriya\documents\visual studio 2013\Projects\14.12.2020\14.12.2020\obj\Debug\14.12.2020.pdb

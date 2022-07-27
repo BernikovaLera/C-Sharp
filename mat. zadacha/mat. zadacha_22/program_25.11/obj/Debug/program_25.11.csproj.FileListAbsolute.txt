@@ -1,0 +1,13 @@
+c:\users\valeriya\documents\visual studio 2013\Projects\program_25.11\program_25.11\bin\Debug\program_25.11.exe.config
+c:\users\valeriya\documents\visual studio 2013\Projects\program_25.11\program_25.11\bin\Debug\program_25.11.exe
+c:\users\valeriya\documents\visual studio 2013\Projects\program_25.11\program_25.11\bin\Debug\program_25.11.pdb
+c:\users\valeriya\documents\visual studio 2013\Projects\program_25.11\program_25.11\obj\Debug\program_25.11.csprojResolveAssemblyReference.cache
+c:\users\valeriya\documents\visual studio 2013\Projects\program_25.11\program_25.11\obj\Debug\program_25.11.exe
+c:\users\valeriya\documents\visual studio 2013\Projects\program_25.11\program_25.11\obj\Debug\program_25.11.pdb
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\program_25.11\program_25.11\bin\Debug\program_25.11.exe.config
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\program_25.11\program_25.11\bin\Debug\program_25.11.exe
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\program_25.11\program_25.11\bin\Debug\program_25.11.pdb
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\program_25.11\program_25.11\obj\Debug\program_25.11.csproj.AssemblyReference.cache
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\program_25.11\program_25.11\obj\Debug\program_25.11.csproj.CoreCompileInputs.cache
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\program_25.11\program_25.11\obj\Debug\program_25.11.exe
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\program_25.11\program_25.11\obj\Debug\program_25.11.pdb

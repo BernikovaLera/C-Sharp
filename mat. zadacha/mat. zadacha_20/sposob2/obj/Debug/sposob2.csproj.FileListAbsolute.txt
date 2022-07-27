@@ -1,0 +1,5 @@
+c:\users\valeriya\documents\visual studio 2013\Projects\program 30.11\sposob2\bin\Debug\sposob2.exe.config
+c:\users\valeriya\documents\visual studio 2013\Projects\program 30.11\sposob2\bin\Debug\sposob2.exe
+c:\users\valeriya\documents\visual studio 2013\Projects\program 30.11\sposob2\bin\Debug\sposob2.pdb
+c:\users\valeriya\documents\visual studio 2013\Projects\program 30.11\sposob2\obj\Debug\sposob2.exe
+c:\users\valeriya\documents\visual studio 2013\Projects\program 30.11\sposob2\obj\Debug\sposob2.pdb

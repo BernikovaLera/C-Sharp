@@ -1,0 +1,6 @@
+c:\users\valeriya\documents\visual studio 2013\Projects\prob\prob\bin\Debug\prob.exe.config
+c:\users\valeriya\documents\visual studio 2013\Projects\prob\prob\bin\Debug\prob.exe
+c:\users\valeriya\documents\visual studio 2013\Projects\prob\prob\bin\Debug\prob.pdb
+c:\users\valeriya\documents\visual studio 2013\Projects\prob\prob\obj\Debug\prob.csprojResolveAssemblyReference.cache
+c:\users\valeriya\documents\visual studio 2013\Projects\prob\prob\obj\Debug\prob.exe
+c:\users\valeriya\documents\visual studio 2013\Projects\prob\prob\obj\Debug\prob.pdb

@@ -1,0 +1,6 @@
+c:\users\valeriya\documents\visual studio 2013\Projects\MMBernikova\MMBernikova\bin\Debug\MMBernikova.exe.config
+C:\Users\Valeriya\documents\visual studio 2013\Projects\MMBernikova\MMBernikova\bin\Debug\MMBernikova.exe
+C:\Users\Valeriya\documents\visual studio 2013\Projects\MMBernikova\MMBernikova\bin\Debug\MMBernikova.pdb
+C:\Users\Valeriya\documents\visual studio 2013\Projects\MMBernikova\MMBernikova\obj\Debug\MMBernikova.csprojResolveAssemblyReference.cache
+C:\Users\Valeriya\documents\visual studio 2013\Projects\MMBernikova\MMBernikova\obj\Debug\MMBernikova.exe
+C:\Users\Valeriya\documents\visual studio 2013\Projects\MMBernikova\MMBernikova\obj\Debug\MMBernikova.pdb

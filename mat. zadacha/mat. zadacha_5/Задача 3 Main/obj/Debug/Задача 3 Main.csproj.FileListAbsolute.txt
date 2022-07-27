@@ -1,0 +1,5 @@
+c:\users\valeriya\documents\visual studio 2013\Projects\ConsoleApplication1\Задача 3 Main\bin\Debug\Задача 3 Main.exe.config
+c:\users\valeriya\documents\visual studio 2013\Projects\ConsoleApplication1\Задача 3 Main\bin\Debug\Задача 3 Main.exe
+c:\users\valeriya\documents\visual studio 2013\Projects\ConsoleApplication1\Задача 3 Main\bin\Debug\Задача 3 Main.pdb
+c:\users\valeriya\documents\visual studio 2013\Projects\ConsoleApplication1\Задача 3 Main\obj\Debug\Задача 3 Main.exe
+c:\users\valeriya\documents\visual studio 2013\Projects\ConsoleApplication1\Задача 3 Main\obj\Debug\Задача 3 Main.pdb

@@ -1,0 +1,5 @@
+C:\Users\Valeriya\Documents\Visual Studio 2013\Projects\ConsoleApplication1 14.09\Задание 4\bin\Debug\Задание 4.exe.config
+C:\Users\Valeriya\Documents\Visual Studio 2013\Projects\ConsoleApplication1 14.09\Задание 4\bin\Debug\Задание 4.exe
+C:\Users\Valeriya\Documents\Visual Studio 2013\Projects\ConsoleApplication1 14.09\Задание 4\bin\Debug\Задание 4.pdb
+C:\Users\Valeriya\Documents\Visual Studio 2013\Projects\ConsoleApplication1 14.09\Задание 4\obj\Debug\Задание 4.exe
+C:\Users\Valeriya\Documents\Visual Studio 2013\Projects\ConsoleApplication1 14.09\Задание 4\obj\Debug\Задание 4.pdb

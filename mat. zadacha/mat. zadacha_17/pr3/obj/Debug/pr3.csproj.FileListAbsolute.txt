@@ -1,0 +1,6 @@
+c:\Users\Valeriya\documents\visual studio 2013\Projects\pr2\pr3\bin\Debug\pr3.exe.config
+c:\Users\Valeriya\documents\visual studio 2013\Projects\pr2\pr3\bin\Debug\pr3.exe
+c:\Users\Valeriya\documents\visual studio 2013\Projects\pr2\pr3\bin\Debug\pr3.pdb
+c:\Users\Valeriya\documents\visual studio 2013\Projects\pr2\pr3\obj\Debug\pr3.csprojResolveAssemblyReference.cache
+c:\Users\Valeriya\documents\visual studio 2013\Projects\pr2\pr3\obj\Debug\pr3.exe
+c:\Users\Valeriya\documents\visual studio 2013\Projects\pr2\pr3\obj\Debug\pr3.pdb

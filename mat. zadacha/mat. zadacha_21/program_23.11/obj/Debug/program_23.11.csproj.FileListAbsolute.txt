@@ -1,0 +1,9 @@
+c:\users\valeriya\documents\visual studio 2013\Projects\program_23.11\program_23.11\bin\Debug\program_23.11.exe.config
+c:\users\valeriya\documents\visual studio 2013\Projects\program_23.11\program_23.11\obj\Debug\program_23.11.csprojResolveAssemblyReference.cache
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\program_23.11\program_23.11\bin\Debug\program_23.11.exe.config
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\program_23.11\program_23.11\bin\Debug\program_23.11.exe
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\program_23.11\program_23.11\bin\Debug\program_23.11.pdb
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\program_23.11\program_23.11\obj\Debug\program_23.11.csproj.AssemblyReference.cache
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\program_23.11\program_23.11\obj\Debug\program_23.11.csproj.CoreCompileInputs.cache
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\program_23.11\program_23.11\obj\Debug\program_23.11.exe
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\program_23.11\program_23.11\obj\Debug\program_23.11.pdb

@@ -1,0 +1,13 @@
+c:\users\valeriya\documents\visual studio 2013\Projects\11.01.21\11.01.21\bin\Debug\11.01.21.exe.config
+c:\users\valeriya\documents\visual studio 2013\Projects\11.01.21\11.01.21\obj\Debug\11.01.21.csprojResolveAssemblyReference.cache
+c:\users\valeriya\documents\visual studio 2013\Projects\11.01.21\11.01.21\bin\Debug\11.01.21.exe
+c:\users\valeriya\documents\visual studio 2013\Projects\11.01.21\11.01.21\bin\Debug\11.01.21.pdb
+c:\users\valeriya\documents\visual studio 2013\Projects\11.01.21\11.01.21\obj\Debug\11.01.21.exe
+c:\users\valeriya\documents\visual studio 2013\Projects\11.01.21\11.01.21\obj\Debug\11.01.21.pdb
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\11.01.21\11.01.21\bin\Debug\11.01.21.exe.config
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\11.01.21\11.01.21\bin\Debug\11.01.21.exe
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\11.01.21\11.01.21\bin\Debug\11.01.21.pdb
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\11.01.21\11.01.21\obj\Debug\11.01.21.csproj.AssemblyReference.cache
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\11.01.21\11.01.21\obj\Debug\11.01.21.csproj.CoreCompileInputs.cache
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\11.01.21\11.01.21\obj\Debug\11.01.21.exe
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\11.01.21\11.01.21\obj\Debug\11.01.21.pdb

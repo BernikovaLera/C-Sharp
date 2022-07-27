@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Проверка года", "ConsoleApplication1\Проверка года.csproj", "{35143FF8-520E-45D1-8D3C-B0184D4F63F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Островки", "ConsoleApplication2\Островки.csproj", "{EFEC0567-A90C-4A6A-834A-E7FB98CCC316}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Массив рандом", "..\ConsoleApplication1 14.09\ConsoleApplication4\Массив рандом.csproj", "{6BAB78F0-B19D-43E1-B000-644B27EE0E79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "рекурсия", "ConsoleApplication3\рекурсия.csproj", "{60D5757C-9547-46F0-94DD-32E77FB17C5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Числа фибоначи", "ConsoleApplication4\Числа фибоначи.csproj", "{C3291130-3F07-477F-B143-0231DF09EC3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "гриша колесо", "ConsoleApplication5\гриша колесо.csproj", "{BB508217-173F-4845-ACF0-389CCFFDDD07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35143FF8-520E-45D1-8D3C-B0184D4F63F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35143FF8-520E-45D1-8D3C-B0184D4F63F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35143FF8-520E-45D1-8D3C-B0184D4F63F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35143FF8-520E-45D1-8D3C-B0184D4F63F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFEC0567-A90C-4A6A-834A-E7FB98CCC316}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFEC0567-A90C-4A6A-834A-E7FB98CCC316}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFEC0567-A90C-4A6A-834A-E7FB98CCC316}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFEC0567-A90C-4A6A-834A-E7FB98CCC316}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BAB78F0-B19D-43E1-B000-644B27EE0E79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BAB78F0-B19D-43E1-B000-644B27EE0E79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BAB78F0-B19D-43E1-B000-644B27EE0E79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BAB78F0-B19D-43E1-B000-644B27EE0E79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60D5757C-9547-46F0-94DD-32E77FB17C5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60D5757C-9547-46F0-94DD-32E77FB17C5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60D5757C-9547-46F0-94DD-32E77FB17C5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60D5757C-9547-46F0-94DD-32E77FB17C5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3291130-3F07-477F-B143-0231DF09EC3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3291130-3F07-477F-B143-0231DF09EC3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3291130-3F07-477F-B143-0231DF09EC3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3291130-3F07-477F-B143-0231DF09EC3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB508217-173F-4845-ACF0-389CCFFDDD07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB508217-173F-4845-ACF0-389CCFFDDD07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB508217-173F-4845-ACF0-389CCFFDDD07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB508217-173F-4845-ACF0-389CCFFDDD07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
