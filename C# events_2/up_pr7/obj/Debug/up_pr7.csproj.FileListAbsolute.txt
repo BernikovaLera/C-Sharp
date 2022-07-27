@@ -1,0 +1,13 @@
+c:\users\valeriya\documents\visual studio 2013\Projects\up_pr7\up_pr7\bin\Debug\up_pr7.exe.config
+c:\users\valeriya\documents\visual studio 2013\Projects\up_pr7\up_pr7\bin\Debug\up_pr7.exe
+c:\users\valeriya\documents\visual studio 2013\Projects\up_pr7\up_pr7\bin\Debug\up_pr7.pdb
+c:\users\valeriya\documents\visual studio 2013\Projects\up_pr7\up_pr7\obj\Debug\up_pr7.csprojResolveAssemblyReference.cache
+c:\users\valeriya\documents\visual studio 2013\Projects\up_pr7\up_pr7\obj\Debug\MainWindow.baml
+c:\users\valeriya\documents\visual studio 2013\Projects\up_pr7\up_pr7\obj\Debug\MainWindow.g.cs
+c:\users\valeriya\documents\visual studio 2013\Projects\up_pr7\up_pr7\obj\Debug\App.g.cs
+c:\users\valeriya\documents\visual studio 2013\Projects\up_pr7\up_pr7\obj\Debug\up_pr7_MarkupCompile.cache
+c:\users\valeriya\documents\visual studio 2013\Projects\up_pr7\up_pr7\obj\Debug\up_pr7.g.resources
+c:\users\valeriya\documents\visual studio 2013\Projects\up_pr7\up_pr7\obj\Debug\up_pr7.Properties.Resources.resources
+c:\users\valeriya\documents\visual studio 2013\Projects\up_pr7\up_pr7\obj\Debug\up_pr7.csproj.GenerateResource.Cache
+c:\users\valeriya\documents\visual studio 2013\Projects\up_pr7\up_pr7\obj\Debug\up_pr7.exe
+c:\users\valeriya\documents\visual studio 2013\Projects\up_pr7\up_pr7\obj\Debug\up_pr7.pdb
