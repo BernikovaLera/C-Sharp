@@ -1,0 +1,6 @@
+c:\users\valeriya\documents\visual studio 2013\Projects\up_pr5\up_pr5\bin\Debug\up_pr5.exe.config
+C:\Users\Valeriya\documents\visual studio 2013\Projects\up_pr5\up_pr5\bin\Debug\up_pr5.exe
+C:\Users\Valeriya\documents\visual studio 2013\Projects\up_pr5\up_pr5\bin\Debug\up_pr5.pdb
+C:\Users\Valeriya\documents\visual studio 2013\Projects\up_pr5\up_pr5\obj\Debug\up_pr5.csprojResolveAssemblyReference.cache
+C:\Users\Valeriya\documents\visual studio 2013\Projects\up_pr5\up_pr5\obj\Debug\up_pr5.exe
+C:\Users\Valeriya\documents\visual studio 2013\Projects\up_pr5\up_pr5\obj\Debug\up_pr5.pdb

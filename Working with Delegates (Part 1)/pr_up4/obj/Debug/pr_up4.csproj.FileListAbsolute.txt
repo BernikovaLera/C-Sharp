@@ -1,0 +1,6 @@
+c:\users\valeriya\documents\visual studio 2013\Projects\pr_up4\pr_up4\bin\Debug\pr_up4.exe.config
+c:\users\valeriya\documents\visual studio 2013\Projects\pr_up4\pr_up4\bin\Debug\pr_up4.exe
+c:\users\valeriya\documents\visual studio 2013\Projects\pr_up4\pr_up4\bin\Debug\pr_up4.pdb
+c:\users\valeriya\documents\visual studio 2013\Projects\pr_up4\pr_up4\obj\Debug\pr_up4.csprojResolveAssemblyReference.cache
+c:\users\valeriya\documents\visual studio 2013\Projects\pr_up4\pr_up4\obj\Debug\pr_up4.exe
+c:\users\valeriya\documents\visual studio 2013\Projects\pr_up4\pr_up4\obj\Debug\pr_up4.pdb

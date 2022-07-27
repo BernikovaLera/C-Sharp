@@ -1,0 +1,13 @@
+c:\users\valeriya\documents\visual studio 2013\Projects\up_pr10\up_pr10\bin\Debug\up_pr10.exe.config
+C:\Users\Valeriya\documents\visual studio 2013\Projects\up_pr10\up_pr10\bin\Debug\up_pr10.exe
+C:\Users\Valeriya\documents\visual studio 2013\Projects\up_pr10\up_pr10\bin\Debug\up_pr10.pdb
+C:\Users\Valeriya\documents\visual studio 2013\Projects\up_pr10\up_pr10\obj\Debug\up_pr10.csprojResolveAssemblyReference.cache
+C:\Users\Valeriya\documents\visual studio 2013\Projects\up_pr10\up_pr10\obj\Debug\MainWindow.baml
+C:\Users\Valeriya\documents\visual studio 2013\Projects\up_pr10\up_pr10\obj\Debug\MainWindow.g.cs
+C:\Users\Valeriya\documents\visual studio 2013\Projects\up_pr10\up_pr10\obj\Debug\App.g.cs
+C:\Users\Valeriya\documents\visual studio 2013\Projects\up_pr10\up_pr10\obj\Debug\up_pr10_MarkupCompile.cache
+C:\Users\Valeriya\documents\visual studio 2013\Projects\up_pr10\up_pr10\obj\Debug\up_pr10.g.resources
+C:\Users\Valeriya\documents\visual studio 2013\Projects\up_pr10\up_pr10\obj\Debug\up_pr10.Properties.Resources.resources
+C:\Users\Valeriya\documents\visual studio 2013\Projects\up_pr10\up_pr10\obj\Debug\up_pr10.csproj.GenerateResource.Cache
+C:\Users\Valeriya\documents\visual studio 2013\Projects\up_pr10\up_pr10\obj\Debug\up_pr10.exe
+C:\Users\Valeriya\documents\visual studio 2013\Projects\up_pr10\up_pr10\obj\Debug\up_pr10.pdb

@@ -1,0 +1,13 @@
+c:\users\valeriya\documents\visual studio 2013\Projects\up_pr8\up_pr8\bin\Debug\up_pr8.exe.config
+C:\Users\Valeriya\documents\visual studio 2013\Projects\up_pr8\up_pr8\bin\Debug\up_pr8.exe
+C:\Users\Valeriya\documents\visual studio 2013\Projects\up_pr8\up_pr8\bin\Debug\up_pr8.pdb
+C:\Users\Valeriya\documents\visual studio 2013\Projects\up_pr8\up_pr8\obj\Debug\up_pr8.csprojResolveAssemblyReference.cache
+C:\Users\Valeriya\documents\visual studio 2013\Projects\up_pr8\up_pr8\obj\Debug\MainWindow.baml
+C:\Users\Valeriya\documents\visual studio 2013\Projects\up_pr8\up_pr8\obj\Debug\MainWindow.g.cs
+C:\Users\Valeriya\documents\visual studio 2013\Projects\up_pr8\up_pr8\obj\Debug\App.g.cs
+C:\Users\Valeriya\documents\visual studio 2013\Projects\up_pr8\up_pr8\obj\Debug\up_pr8_MarkupCompile.cache
+C:\Users\Valeriya\documents\visual studio 2013\Projects\up_pr8\up_pr8\obj\Debug\up_pr8.g.resources
+C:\Users\Valeriya\documents\visual studio 2013\Projects\up_pr8\up_pr8\obj\Debug\up_pr8.Properties.Resources.resources
+C:\Users\Valeriya\documents\visual studio 2013\Projects\up_pr8\up_pr8\obj\Debug\up_pr8.csproj.GenerateResource.Cache
+C:\Users\Valeriya\documents\visual studio 2013\Projects\up_pr8\up_pr8\obj\Debug\up_pr8.exe
+C:\Users\Valeriya\documents\visual studio 2013\Projects\up_pr8\up_pr8\obj\Debug\up_pr8.pdb

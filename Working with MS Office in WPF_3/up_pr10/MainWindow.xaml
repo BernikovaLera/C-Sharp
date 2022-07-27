@@ -1,0 +1,16 @@
+﻿<Window x:Class="up_pr10.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Берникова Валерия 118 УППР№10" Height="450" Width="500">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="Снимок.PNG.jpg"/>
+        </Grid.Background>
+        <Label Content="Число π =" HorizontalAlignment="Left" Height="38" Margin="10,371,0,0" VerticalAlignment="Top" 
+               Width="146" FontSize="22" FontStyle="Italic" FontWeight="Bold" FontFamily="Snap ITC" Background="#FF77BFFD"/>
+        <TextBlock Name="TextBlock_Pi" HorizontalAlignment="Left" Height="38" Margin="156,371,0,0" TextWrapping="Wrap" 
+                   Text="" VerticalAlignment="Top" Width="327" FontSize="22" FontWeight="Bold" FontFamily="Segoe UI Symbol" FontStyle="Italic" Background="#FF77BFFD"/>
+        <Button Name="Button_Pi" Content="Вывести число π" HorizontalAlignment="Left" Height="41" Margin="269,10,0,0" 
+                VerticalAlignment="Top" Width="214" FontSize="22" Click="Button_Pi_Click" FontFamily="SimSun-ExtB" Background="#FF77BFFD" />
+    </Grid>
+</Window>

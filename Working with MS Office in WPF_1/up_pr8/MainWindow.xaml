@@ -1,0 +1,12 @@
+﻿<Window x:Class="up_pr8.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="УП_ПР№8 Берникова 3пкс-118" Height="450" Width="540">
+    <Grid Background="LimeGreen">
+        <Label Content="Введите текст" HorizontalAlignment="Left" Height="36" Margin="26,10,0,0" VerticalAlignment="Top" Width="217" FontSize="20"/>
+        <TextBox Name="TextBox_vvod" SpellCheck.IsEnabled="False" Language="ru-ru" AcceptsReturn="True" 
+                 HorizontalAlignment="Left" Height="245" Margin="26,62,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="471"/>
+        <Button Content="Проверка орфографии текста" HorizontalAlignment="Left" Height="42" Margin=
+                "130,342,0,0" VerticalAlignment="Top" Width="271" FontSize="18" Click="Button_Click" Background="Gold"/>
+    </Grid>
+</Window>
