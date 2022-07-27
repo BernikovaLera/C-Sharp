@@ -1,0 +1,6 @@
+c:\users\valeriya\documents\visual studio 2013\Projects\up_pr6\up_pr6\bin\Debug\up_pr6.exe.config
+c:\users\valeriya\documents\visual studio 2013\Projects\up_pr6\up_pr6\obj\Debug\up_pr6.csprojResolveAssemblyReference.cache
+c:\users\valeriya\documents\visual studio 2013\Projects\up_pr6\up_pr6\bin\Debug\up_pr6.exe
+c:\users\valeriya\documents\visual studio 2013\Projects\up_pr6\up_pr6\bin\Debug\up_pr6.pdb
+c:\users\valeriya\documents\visual studio 2013\Projects\up_pr6\up_pr6\obj\Debug\up_pr6.exe
+c:\users\valeriya\documents\visual studio 2013\Projects\up_pr6\up_pr6\obj\Debug\up_pr6.pdb
