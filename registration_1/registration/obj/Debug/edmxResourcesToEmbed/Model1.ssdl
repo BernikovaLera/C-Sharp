@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Хранилище registrationsModel" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Registr">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" />
+    <Property Name="name" Type="nvarchar" MaxLength="50" />
+    <Property Name="surname" Type="nvarchar" MaxLength="50" />
+    <Property Name="patronymic" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityContainer Name="Хранилище registrationsModelContainer">
+    <EntitySet Name="Registr" EntityType="Self.Registr" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

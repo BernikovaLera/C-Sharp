@@ -1,0 +1,35 @@
+c:\users\valeriya\documents\visual studio 2013\Projects\Bernikova118_09.04.21\Bernikova118_09.04.21\bin\Debug\Bernikova118_09.04.21.exe.config
+c:\users\valeriya\documents\visual studio 2013\Projects\Bernikova118_09.04.21\Bernikova118_09.04.21\bin\Debug\Bernikova118_09.04.21.exe
+c:\users\valeriya\documents\visual studio 2013\Projects\Bernikova118_09.04.21\Bernikova118_09.04.21\bin\Debug\Bernikova118_09.04.21.pdb
+c:\users\valeriya\documents\visual studio 2013\Projects\Bernikova118_09.04.21\Bernikova118_09.04.21\obj\Debug\Bernikova118_09.04.21.csprojResolveAssemblyReference.cache
+c:\users\valeriya\documents\visual studio 2013\Projects\Bernikova118_09.04.21\Bernikova118_09.04.21\obj\Debug\MainWindow.baml
+c:\users\valeriya\documents\visual studio 2013\Projects\Bernikova118_09.04.21\Bernikova118_09.04.21\obj\Debug\MainWindow.g.cs
+c:\users\valeriya\documents\visual studio 2013\Projects\Bernikova118_09.04.21\Bernikova118_09.04.21\obj\Debug\App.g.cs
+c:\users\valeriya\documents\visual studio 2013\Projects\Bernikova118_09.04.21\Bernikova118_09.04.21\obj\Debug\Bernikova118_09.04.21_MarkupCompile.cache
+c:\users\valeriya\documents\visual studio 2013\Projects\Bernikova118_09.04.21\Bernikova118_09.04.21\obj\Debug\Bernikova118_09.04.21.g.resources
+c:\users\valeriya\documents\visual studio 2013\Projects\Bernikova118_09.04.21\Bernikova118_09.04.21\obj\Debug\Bernikova118_09._04._21.Properties.Resources.resources
+c:\users\valeriya\documents\visual studio 2013\Projects\Bernikova118_09.04.21\Bernikova118_09.04.21\obj\Debug\Bernikova118_09.04.21.csproj.GenerateResource.Cache
+c:\users\valeriya\documents\visual studio 2013\Projects\Bernikova118_09.04.21\Bernikova118_09.04.21\obj\Debug\Bernikova118_09.04.21.exe
+c:\users\valeriya\documents\visual studio 2013\Projects\Bernikova118_09.04.21\Bernikova118_09.04.21\obj\Debug\Bernikova118_09.04.21.pdb
+c:\users\valeriya\documents\visual studio 2013\Projects\Bernikova118_09.04.21\Bernikova118_09.04.21\obj\Debug\Pages\AuthorizationPage.baml
+c:\users\valeriya\documents\visual studio 2013\Projects\Bernikova118_09.04.21\Bernikova118_09.04.21\obj\Debug\Pages\RegistrationPage.baml
+c:\users\valeriya\documents\visual studio 2013\Projects\Bernikova118_09.04.21\Bernikova118_09.04.21\obj\Debug\Pages\AuthorizationPage.g.cs
+c:\users\valeriya\documents\visual studio 2013\Projects\Bernikova118_09.04.21\Bernikova118_09.04.21\obj\Debug\Pages\RegistrationPage.g.cs
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\Bernikova118_09.04.21\Bernikova118_09.04.21\bin\Debug\Bernikova118_09.04.21.exe.config
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\Bernikova118_09.04.21\Bernikova118_09.04.21\bin\Debug\Bernikova118_09.04.21.exe
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\Bernikova118_09.04.21\Bernikova118_09.04.21\bin\Debug\Bernikova118_09.04.21.pdb
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\Bernikova118_09.04.21\Bernikova118_09.04.21\obj\Debug\Bernikova118_09.04.21.csproj.AssemblyReference.cache
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\Bernikova118_09.04.21\Bernikova118_09.04.21\obj\Debug\MainWindow.baml
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\Bernikova118_09.04.21\Bernikova118_09.04.21\obj\Debug\Pages\AuthorizationPage.baml
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\Bernikova118_09.04.21\Bernikova118_09.04.21\obj\Debug\Pages\RegistrationPage.baml
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\Bernikova118_09.04.21\Bernikova118_09.04.21\obj\Debug\MainWindow.g.cs
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\Bernikova118_09.04.21\Bernikova118_09.04.21\obj\Debug\Pages\AuthorizationPage.g.cs
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\Bernikova118_09.04.21\Bernikova118_09.04.21\obj\Debug\Pages\RegistrationPage.g.cs
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\Bernikova118_09.04.21\Bernikova118_09.04.21\obj\Debug\App.g.cs
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\Bernikova118_09.04.21\Bernikova118_09.04.21\obj\Debug\Bernikova118_09.04.21_MarkupCompile.cache
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\Bernikova118_09.04.21\Bernikova118_09.04.21\obj\Debug\Bernikova118_09.04.21.g.resources
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\Bernikova118_09.04.21\Bernikova118_09.04.21\obj\Debug\Bernikova118_09._04._21.Properties.Resources.resources
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\Bernikova118_09.04.21\Bernikova118_09.04.21\obj\Debug\Bernikova118_09.04.21.csproj.GenerateResource.cache
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\Bernikova118_09.04.21\Bernikova118_09.04.21\obj\Debug\Bernikova118_09.04.21.csproj.CoreCompileInputs.cache
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\Bernikova118_09.04.21\Bernikova118_09.04.21\obj\Debug\Bernikova118_09.04.21.exe
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\Bernikova118_09.04.21\Bernikova118_09.04.21\obj\Debug\Bernikova118_09.04.21.pdb

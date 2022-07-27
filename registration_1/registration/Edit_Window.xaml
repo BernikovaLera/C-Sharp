@@ -1,0 +1,23 @@
+﻿<Window x:Class="registration.Edit_Window"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Edit_Window" Height="300" Width="500" Background="AliceBlue">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="100"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.Column="0">
+            <TextBlock Text="Name:"/>
+            <TextBlock Text="Lastname:"/>
+            <TextBlock Text="Patronymic:"/>
+        </StackPanel>
+
+        <StackPanel Grid.Column="1">
+            <TextBox x:Name="Name_user" Text="{Binding u.Name}"/>
+            <TextBox x:Name="Lastname_user" Text="{Binding u.Lastname}"/>
+            <TextBox x:Name="Patroniymic_user" Text="{Binding u.Patronymic}"/>
+            <Button x:Name="SaveButton" Click="SaveButton_Click">Save</Button>
+        </StackPanel>
+    </Grid>
+</Window>

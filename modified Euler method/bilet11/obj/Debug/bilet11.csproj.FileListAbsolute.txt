@@ -1,0 +1,6 @@
+c:\users\valeriya\documents\visual studio 2013\Projects\bilet11\bilet11\bin\Debug\bilet11.exe.config
+c:\users\valeriya\documents\visual studio 2013\Projects\bilet11\bilet11\bin\Debug\bilet11.exe
+c:\users\valeriya\documents\visual studio 2013\Projects\bilet11\bilet11\bin\Debug\bilet11.pdb
+c:\users\valeriya\documents\visual studio 2013\Projects\bilet11\bilet11\obj\Debug\bilet11.csprojResolveAssemblyReference.cache
+c:\users\valeriya\documents\visual studio 2013\Projects\bilet11\bilet11\obj\Debug\bilet11.exe
+c:\users\valeriya\documents\visual studio 2013\Projects\bilet11\bilet11\obj\Debug\bilet11.pdb

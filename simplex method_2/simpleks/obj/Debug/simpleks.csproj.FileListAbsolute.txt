@@ -1,0 +1,13 @@
+c:\users\valeriya\documents\visual studio 2013\Projects\simpleks\simpleks\bin\Debug\simpleks.exe.config
+c:\users\valeriya\documents\visual studio 2013\Projects\simpleks\simpleks\obj\Debug\simpleks.csprojResolveAssemblyReference.cache
+c:\users\valeriya\documents\visual studio 2013\Projects\simpleks\simpleks\bin\Debug\simpleks.exe
+c:\users\valeriya\documents\visual studio 2013\Projects\simpleks\simpleks\bin\Debug\simpleks.pdb
+c:\users\valeriya\documents\visual studio 2013\Projects\simpleks\simpleks\obj\Debug\simpleks.exe
+c:\users\valeriya\documents\visual studio 2013\Projects\simpleks\simpleks\obj\Debug\simpleks.pdb
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\simpleks\simpleks\bin\Debug\simpleks.exe.config
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\simpleks\simpleks\bin\Debug\simpleks.exe
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\simpleks\simpleks\bin\Debug\simpleks.pdb
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\simpleks\simpleks\obj\Debug\simpleks.csproj.AssemblyReference.cache
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\simpleks\simpleks\obj\Debug\simpleks.csproj.CoreCompileInputs.cache
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\simpleks\simpleks\obj\Debug\simpleks.exe
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\simpleks\simpleks\obj\Debug\simpleks.pdb

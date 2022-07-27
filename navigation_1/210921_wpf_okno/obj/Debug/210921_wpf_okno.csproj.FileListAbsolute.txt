@@ -1,0 +1,43 @@
+c:\users\valeriya\documents\visual studio 2013\Projects\210921_wpf_okno\210921_wpf_okno\bin\Debug\210921_wpf_okno.exe.config
+c:\users\valeriya\documents\visual studio 2013\Projects\210921_wpf_okno\210921_wpf_okno\bin\Debug\210921_wpf_okno.exe
+c:\users\valeriya\documents\visual studio 2013\Projects\210921_wpf_okno\210921_wpf_okno\bin\Debug\210921_wpf_okno.pdb
+c:\users\valeriya\documents\visual studio 2013\Projects\210921_wpf_okno\210921_wpf_okno\obj\Debug\210921_wpf_okno.csprojResolveAssemblyReference.cache
+c:\users\valeriya\documents\visual studio 2013\Projects\210921_wpf_okno\210921_wpf_okno\obj\Debug\MainWindow.baml
+c:\users\valeriya\documents\visual studio 2013\Projects\210921_wpf_okno\210921_wpf_okno\obj\Debug\MainWindow.g.cs
+c:\users\valeriya\documents\visual studio 2013\Projects\210921_wpf_okno\210921_wpf_okno\obj\Debug\App.g.cs
+c:\users\valeriya\documents\visual studio 2013\Projects\210921_wpf_okno\210921_wpf_okno\obj\Debug\210921_wpf_okno_MarkupCompile.cache
+c:\users\valeriya\documents\visual studio 2013\Projects\210921_wpf_okno\210921_wpf_okno\obj\Debug\210921_wpf_okno.g.resources
+c:\users\valeriya\documents\visual studio 2013\Projects\210921_wpf_okno\210921_wpf_okno\obj\Debug\_210921_wpf_okno.Properties.Resources.resources
+c:\users\valeriya\documents\visual studio 2013\Projects\210921_wpf_okno\210921_wpf_okno\obj\Debug\210921_wpf_okno.csproj.GenerateResource.Cache
+c:\users\valeriya\documents\visual studio 2013\Projects\210921_wpf_okno\210921_wpf_okno\obj\Debug\210921_wpf_okno.exe
+c:\users\valeriya\documents\visual studio 2013\Projects\210921_wpf_okno\210921_wpf_okno\obj\Debug\210921_wpf_okno.pdb
+C:\Users\Valeriya\documents\visual studio 2013\Projects\210921_wpf_okno\210921_wpf_okno\obj\Debug\Pages\AuthPage.baml
+C:\Users\Valeriya\documents\visual studio 2013\Projects\210921_wpf_okno\210921_wpf_okno\obj\Debug\Pages\StudentPage.baml
+C:\Users\Valeriya\documents\visual studio 2013\Projects\210921_wpf_okno\210921_wpf_okno\obj\Debug\Pages\AuthPage.g.cs
+C:\Users\Valeriya\documents\visual studio 2013\Projects\210921_wpf_okno\210921_wpf_okno\obj\Debug\Pages\StudentPage.g.cs
+C:\Users\Valeriya\documents\visual studio 2013\Projects\210921_wpf_okno\210921_wpf_okno\obj\Debug\Pages\TeacherPage.baml
+C:\Users\Valeriya\documents\visual studio 2013\Projects\210921_wpf_okno\210921_wpf_okno\obj\Debug\Pages\TeacherPage.g.cs
+C:\Users\Valeriya\documents\visual studio 2013\Projects\210921_wpf_okno\210921_wpf_okno\obj\Debug\Pages\GroupPage.baml
+C:\Users\Valeriya\documents\visual studio 2013\Projects\210921_wpf_okno\210921_wpf_okno\obj\Debug\Pages\GroupPage.g.cs
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\210921_wpf_okno\210921_wpf_okno\bin\Debug\210921_wpf_okno.exe.config
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\210921_wpf_okno\210921_wpf_okno\bin\Debug\210921_wpf_okno.exe
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\210921_wpf_okno\210921_wpf_okno\bin\Debug\210921_wpf_okno.pdb
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\210921_wpf_okno\210921_wpf_okno\obj\Debug\210921_wpf_okno.csproj.AssemblyReference.cache
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\210921_wpf_okno\210921_wpf_okno\obj\Debug\Pages\AuthPage.baml
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\210921_wpf_okno\210921_wpf_okno\obj\Debug\MainWindow.baml
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\210921_wpf_okno\210921_wpf_okno\obj\Debug\Pages\GroupPage.baml
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\210921_wpf_okno\210921_wpf_okno\obj\Debug\Pages\StudentPage.baml
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\210921_wpf_okno\210921_wpf_okno\obj\Debug\Pages\TeacherPage.baml
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\210921_wpf_okno\210921_wpf_okno\obj\Debug\Pages\AuthPage.g.cs
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\210921_wpf_okno\210921_wpf_okno\obj\Debug\MainWindow.g.cs
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\210921_wpf_okno\210921_wpf_okno\obj\Debug\Pages\GroupPage.g.cs
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\210921_wpf_okno\210921_wpf_okno\obj\Debug\Pages\StudentPage.g.cs
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\210921_wpf_okno\210921_wpf_okno\obj\Debug\Pages\TeacherPage.g.cs
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\210921_wpf_okno\210921_wpf_okno\obj\Debug\App.g.cs
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\210921_wpf_okno\210921_wpf_okno\obj\Debug\210921_wpf_okno_MarkupCompile.cache
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\210921_wpf_okno\210921_wpf_okno\obj\Debug\210921_wpf_okno.g.resources
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\210921_wpf_okno\210921_wpf_okno\obj\Debug\_210921_wpf_okno.Properties.Resources.resources
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\210921_wpf_okno\210921_wpf_okno\obj\Debug\210921_wpf_okno.csproj.GenerateResource.cache
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\210921_wpf_okno\210921_wpf_okno\obj\Debug\210921_wpf_okno.csproj.CoreCompileInputs.cache
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\210921_wpf_okno\210921_wpf_okno\obj\Debug\210921_wpf_okno.exe
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\210921_wpf_okno\210921_wpf_okno\obj\Debug\210921_wpf_okno.pdb

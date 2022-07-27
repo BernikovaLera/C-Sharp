@@ -1,0 +1,25 @@
+﻿<Window x:Class="_210921_wpf_okno.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="400" Width="600">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100*" ></RowDefinition>
+            <RowDefinition Height="200*"></RowDefinition>
+            <RowDefinition Height="35*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Rectangle   Grid.Row="0" Fill="#FFB5E61D" Margin="0,0,0.333,221" Grid.RowSpan="2" />
+        <Image Source ="1.jpg" Margin="418,0,0.333,221" Grid.RowSpan="2"/>
+
+        <Button Content="Группы" HorizontalAlignment="Left" Height="35" Margin="10,10,0,0" VerticalAlignment="Top" Width="95" Click="Button_Click2"/>
+        <Button Content="Преподователь" HorizontalAlignment="Left" Height="35" Margin="210,10,0,0" VerticalAlignment="Top" Width="95" Click="Button_Click1"/>
+        <Button Content="Студент" HorizontalAlignment="Left" Height="35" Margin="110,10,0,0" VerticalAlignment="Top" Width="95" Click="Button_Click"/>
+        <Button Content="Справки" HorizontalAlignment="Left" Height="35" Margin="310,10,0,0" VerticalAlignment="Top" Width="95"/>
+
+        <Frame x:Name="MyFrame" Source="Pages/AuthPage.xaml" NavigationUIVisibility="Hidden"  Background="#FFFFAEC9" Margin="0,0.333,0.333,-0.333" Grid.RowSpan="2" Grid.Row="1"/>
+        <StackPanel VerticalAlignment="Center" Orientation="Horizontal" Margin="0,86,0.333,4.667">
+            <Button x:Name="BackButton" Content="Назад" Click="BackButton_Click" />
+            <Button x:Name="ForwarButton" Content="Вперед" Click="ForwarButton_Click" />
+        </StackPanel>
+    </Grid>
+</Window>

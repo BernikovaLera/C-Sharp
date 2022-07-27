@@ -1,0 +1,43 @@
+c:\users\valeriya\documents\visual studio 2013\Projects\prilogenie\prilogenie\bin\Debug\prilogenie.exe.config
+c:\users\valeriya\documents\visual studio 2013\Projects\prilogenie\prilogenie\bin\Debug\prilogenie.exe
+c:\users\valeriya\documents\visual studio 2013\Projects\prilogenie\prilogenie\bin\Debug\prilogenie.pdb
+c:\users\valeriya\documents\visual studio 2013\Projects\prilogenie\prilogenie\obj\Debug\prilogenie.csprojResolveAssemblyReference.cache
+c:\users\valeriya\documents\visual studio 2013\Projects\prilogenie\prilogenie\obj\Debug\MainWindow.baml
+c:\users\valeriya\documents\visual studio 2013\Projects\prilogenie\prilogenie\obj\Debug\Pages\AuthPage.baml
+c:\users\valeriya\documents\visual studio 2013\Projects\prilogenie\prilogenie\obj\Debug\Pages\GroupPage.baml
+c:\users\valeriya\documents\visual studio 2013\Projects\prilogenie\prilogenie\obj\Debug\Pages\StudentPage.baml
+c:\users\valeriya\documents\visual studio 2013\Projects\prilogenie\prilogenie\obj\Debug\Pages\TeacherPage.baml
+c:\users\valeriya\documents\visual studio 2013\Projects\prilogenie\prilogenie\obj\Debug\MainWindow.g.cs
+c:\users\valeriya\documents\visual studio 2013\Projects\prilogenie\prilogenie\obj\Debug\Pages\AuthPage.g.cs
+c:\users\valeriya\documents\visual studio 2013\Projects\prilogenie\prilogenie\obj\Debug\Pages\GroupPage.g.cs
+c:\users\valeriya\documents\visual studio 2013\Projects\prilogenie\prilogenie\obj\Debug\Pages\StudentPage.g.cs
+c:\users\valeriya\documents\visual studio 2013\Projects\prilogenie\prilogenie\obj\Debug\Pages\TeacherPage.g.cs
+c:\users\valeriya\documents\visual studio 2013\Projects\prilogenie\prilogenie\obj\Debug\App.g.cs
+c:\users\valeriya\documents\visual studio 2013\Projects\prilogenie\prilogenie\obj\Debug\prilogenie_MarkupCompile.cache
+c:\users\valeriya\documents\visual studio 2013\Projects\prilogenie\prilogenie\obj\Debug\prilogenie.g.resources
+c:\users\valeriya\documents\visual studio 2013\Projects\prilogenie\prilogenie\obj\Debug\prilogenie.Properties.Resources.resources
+c:\users\valeriya\documents\visual studio 2013\Projects\prilogenie\prilogenie\obj\Debug\prilogenie.csproj.GenerateResource.Cache
+c:\users\valeriya\documents\visual studio 2013\Projects\prilogenie\prilogenie\obj\Debug\prilogenie.exe
+c:\users\valeriya\documents\visual studio 2013\Projects\prilogenie\prilogenie\obj\Debug\prilogenie.pdb
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\prilogenie\prilogenie\bin\Debug\prilogenie.exe.config
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\prilogenie\prilogenie\bin\Debug\prilogenie.exe
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\prilogenie\prilogenie\bin\Debug\prilogenie.pdb
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\prilogenie\prilogenie\obj\Debug\prilogenie.csproj.AssemblyReference.cache
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\prilogenie\prilogenie\obj\Debug\MainWindow.baml
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\prilogenie\prilogenie\obj\Debug\Pages\AuthPage.baml
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\prilogenie\prilogenie\obj\Debug\Pages\GroupPage.baml
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\prilogenie\prilogenie\obj\Debug\Pages\StudentPage.baml
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\prilogenie\prilogenie\obj\Debug\Pages\TeacherPage.baml
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\prilogenie\prilogenie\obj\Debug\MainWindow.g.cs
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\prilogenie\prilogenie\obj\Debug\Pages\AuthPage.g.cs
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\prilogenie\prilogenie\obj\Debug\Pages\GroupPage.g.cs
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\prilogenie\prilogenie\obj\Debug\Pages\StudentPage.g.cs
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\prilogenie\prilogenie\obj\Debug\Pages\TeacherPage.g.cs
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\prilogenie\prilogenie\obj\Debug\App.g.cs
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\prilogenie\prilogenie\obj\Debug\prilogenie_MarkupCompile.cache
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\prilogenie\prilogenie\obj\Debug\prilogenie.g.resources
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\prilogenie\prilogenie\obj\Debug\prilogenie.Properties.Resources.resources
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\prilogenie\prilogenie\obj\Debug\prilogenie.csproj.GenerateResource.cache
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\prilogenie\prilogenie\obj\Debug\prilogenie.csproj.CoreCompileInputs.cache
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\prilogenie\prilogenie\obj\Debug\prilogenie.exe
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\prilogenie\prilogenie\obj\Debug\prilogenie.pdb
