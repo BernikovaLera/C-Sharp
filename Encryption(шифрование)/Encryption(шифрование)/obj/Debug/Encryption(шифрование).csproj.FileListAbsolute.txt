@@ -1,0 +1,13 @@
+c:\users\valeriya\documents\visual studio 2013\Projects\Encryption(шифрование)\Encryption(шифрование)\bin\Debug\Encryption(шифрование).exe.config
+c:\users\valeriya\documents\visual studio 2013\Projects\Encryption(шифрование)\Encryption(шифрование)\bin\Debug\Encryption(шифрование).exe
+c:\users\valeriya\documents\visual studio 2013\Projects\Encryption(шифрование)\Encryption(шифрование)\bin\Debug\Encryption(шифрование).pdb
+c:\users\valeriya\documents\visual studio 2013\Projects\Encryption(шифрование)\Encryption(шифрование)\obj\Debug\Encryption(шифрование).csprojResolveAssemblyReference.cache
+c:\users\valeriya\documents\visual studio 2013\Projects\Encryption(шифрование)\Encryption(шифрование)\obj\Debug\MainWindow.baml
+c:\users\valeriya\documents\visual studio 2013\Projects\Encryption(шифрование)\Encryption(шифрование)\obj\Debug\MainWindow.g.cs
+c:\users\valeriya\documents\visual studio 2013\Projects\Encryption(шифрование)\Encryption(шифрование)\obj\Debug\App.g.cs
+c:\users\valeriya\documents\visual studio 2013\Projects\Encryption(шифрование)\Encryption(шифрование)\obj\Debug\Encryption(шифрование)_MarkupCompile.cache
+c:\users\valeriya\documents\visual studio 2013\Projects\Encryption(шифрование)\Encryption(шифрование)\obj\Debug\Encryption(шифрование).g.resources
+c:\users\valeriya\documents\visual studio 2013\Projects\Encryption(шифрование)\Encryption(шифрование)\obj\Debug\Encryption_шифрование_.Properties.Resources.resources
+c:\users\valeriya\documents\visual studio 2013\Projects\Encryption(шифрование)\Encryption(шифрование)\obj\Debug\Encryption(шифрование).csproj.GenerateResource.Cache
+c:\users\valeriya\documents\visual studio 2013\Projects\Encryption(шифрование)\Encryption(шифрование)\obj\Debug\Encryption(шифрование).exe
+c:\users\valeriya\documents\visual studio 2013\Projects\Encryption(шифрование)\Encryption(шифрование)\obj\Debug\Encryption(шифрование).pdb
