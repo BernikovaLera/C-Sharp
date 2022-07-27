@@ -1,0 +1,27 @@
+c:\users\valeriya\documents\visual studio 2013\Projects\14.09.21 calculator\14.09.21 calculator\bin\Debug\14.09.21 calculator.exe.config
+c:\users\valeriya\documents\visual studio 2013\Projects\14.09.21 calculator\14.09.21 calculator\bin\Debug\14.09.21 calculator.exe
+c:\users\valeriya\documents\visual studio 2013\Projects\14.09.21 calculator\14.09.21 calculator\bin\Debug\14.09.21 calculator.pdb
+c:\users\valeriya\documents\visual studio 2013\Projects\14.09.21 calculator\14.09.21 calculator\obj\Debug\14.09.21 calculator.csprojResolveAssemblyReference.cache
+c:\users\valeriya\documents\visual studio 2013\Projects\14.09.21 calculator\14.09.21 calculator\obj\Debug\MainWindow.baml
+c:\users\valeriya\documents\visual studio 2013\Projects\14.09.21 calculator\14.09.21 calculator\obj\Debug\MainWindow.g.cs
+c:\users\valeriya\documents\visual studio 2013\Projects\14.09.21 calculator\14.09.21 calculator\obj\Debug\App.g.cs
+c:\users\valeriya\documents\visual studio 2013\Projects\14.09.21 calculator\14.09.21 calculator\obj\Debug\14.09.21 calculator_MarkupCompile.cache
+c:\users\valeriya\documents\visual studio 2013\Projects\14.09.21 calculator\14.09.21 calculator\obj\Debug\14.09.21 calculator.g.resources
+c:\users\valeriya\documents\visual studio 2013\Projects\14.09.21 calculator\14.09.21 calculator\obj\Debug\_14._09._21_calculator.Properties.Resources.resources
+c:\users\valeriya\documents\visual studio 2013\Projects\14.09.21 calculator\14.09.21 calculator\obj\Debug\14.09.21 calculator.csproj.GenerateResource.Cache
+c:\users\valeriya\documents\visual studio 2013\Projects\14.09.21 calculator\14.09.21 calculator\obj\Debug\14.09.21 calculator.exe
+c:\users\valeriya\documents\visual studio 2013\Projects\14.09.21 calculator\14.09.21 calculator\obj\Debug\14.09.21 calculator.pdb
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\14.09.21 calculator\14.09.21 calculator\bin\Debug\14.09.21 calculator.exe.config
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\14.09.21 calculator\14.09.21 calculator\bin\Debug\14.09.21 calculator.exe
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\14.09.21 calculator\14.09.21 calculator\bin\Debug\14.09.21 calculator.pdb
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\14.09.21 calculator\14.09.21 calculator\obj\Debug\14.09.21 calculator.csproj.AssemblyReference.cache
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\14.09.21 calculator\14.09.21 calculator\obj\Debug\MainWindow.baml
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\14.09.21 calculator\14.09.21 calculator\obj\Debug\MainWindow.g.cs
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\14.09.21 calculator\14.09.21 calculator\obj\Debug\App.g.cs
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\14.09.21 calculator\14.09.21 calculator\obj\Debug\14.09.21 calculator_MarkupCompile.cache
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\14.09.21 calculator\14.09.21 calculator\obj\Debug\14.09.21 calculator.g.resources
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\14.09.21 calculator\14.09.21 calculator\obj\Debug\_14._09._21_calculator.Properties.Resources.resources
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\14.09.21 calculator\14.09.21 calculator\obj\Debug\14.09.21 calculator.csproj.GenerateResource.cache
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\14.09.21 calculator\14.09.21 calculator\obj\Debug\14.09.21 calculator.csproj.CoreCompileInputs.cache
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\14.09.21 calculator\14.09.21 calculator\obj\Debug\14.09.21 calculator.exe
+C:\Users\berni\OneDrive\Рабочий стол\Файлы для разбора\Projects\14.09.21 calculator\14.09.21 calculator\obj\Debug\14.09.21 calculator.pdb
